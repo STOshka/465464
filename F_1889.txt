@@ -14,7 +14,7 @@ package
       
       public const params:String = "";
       
-      public const dict:String = "^Robot^FilingCU^l.success^true^Keypad|WiredBomb_Normal^3^180000^1^8^9^temps^false^Recipes^CoffeeBomb^90000^0^10^Cubicles^Keypad|Keypad|Keypad|WiredBomb_Normal^4^240000^7^{{g.today}}^100000^160000^200000^WiredBomb_Normal^12^dogOnly^Sick Day^8:50 AM";
+      public const dict:String = "^Robot^FilingCU^l.success^true^Keypad|WiredBomb_Normal^3^180000^1^8^9^temps^false^Recipes^CoffeeBomb^90000^0^10^Cubicles^Keypad|Keypad|Keypad|WiredBomb_Normal^4^240000^7^{{g.today}}^69000^155250^241500^WiredBomb_Normal^12^dogOnly^Sick Day^8:50 AM";
       
       public const fname:String = "Day12_SickDay";
       
